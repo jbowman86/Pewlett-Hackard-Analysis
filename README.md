@@ -18,8 +18,8 @@ The purpose of this analysis is to prepare Pewlett-Hackard for the upcoming “s
 The data was collected from six CSV files containing information on Pewlett-Hackard employees.  These datasets can be obtained via the links below:
 
   - Departments Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv
-  - Dept_emp Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv
-  - Dept_manager Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv
+  - Department Employees Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv
+  - Department Manager Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv
   - Employees Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv  
   - Salaries Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv  
   - Titles Dataset: https://github.com/jbowman86/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv
